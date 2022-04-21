@@ -1,2 +1,1 @@
-import py
-Hello world
+Bite
